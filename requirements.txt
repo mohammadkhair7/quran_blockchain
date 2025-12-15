@@ -1,0 +1,6 @@
+cryptography
+pandas
+openpyxl
+tqdm
+termcolor
+
