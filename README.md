@@ -1,9 +1,9 @@
 # quran_blockchain
 Blockchain encryption and validation of the Quran suras and ayas (verses)
 Quran Suras/Ayas Encryption using Blackchain
+
 Mohammad Khair
 Oct 2024
-
 
 Blockchain Encryption Usage:  Encrypt by loading an excel file containing names and numbers of Suras, and Ayas (in utf8 format) 
 and their order from start of suras
